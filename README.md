@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Masayu Franstika Oktaria</h1>
 <h3 align="center">A passionate Data Science, Data Analys, and Statistic from Indonesia</h3>
 
-<img align="right" alt="coding" widht="400" src="https://images.app.goo.gl/pnRmxWuPp5Tf9Nt27">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masayufrnstkaa&label=Profile%20views&color=0e75b6&style=flat" alt="masayufrnstkaa" /> </p>
 
